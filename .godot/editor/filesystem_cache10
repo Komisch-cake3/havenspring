@@ -1,0 +1,39 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1790043236
+cat.jpg::CompressedTexture2D::2199067432328161960::1789942663::1790039692::1::::<><><>0<>0<>a457cd7972c73f3d6ea71f82595e2a3a<>res://.godot/imported/cat.jpg-51906ed6f2fe0355744c72980909c6d2.ctex::
+eyeman.png::CompressedTexture2D::2352673674915507989::1790037773::1790037838::1::::<><><>0<>0<>fab345648ff95c4e3c1e3395eb2c4691<>res://.godot/imported/eyeman.png-c790edb063c0e9d113b738b5ef67c228.ctex::
+green.png::CompressedTexture2D::2965311248242705535::1790004486::1790004576::1::::<><><>0<>0<>f70595481dd0b512fa6e31472d1cd578<>res://.godot/imported/green.png-5db815cc8219d4fb24db6968e2796f87.ctex::
+icon.svg::CompressedTexture2D::1495063149536069859::1789918270::1789918291::1::::<><><>0<>0<>19041fcead51bfd13d54d502f77afefa<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main 2.tscn::PackedScene::5460348554178548727::1789942699::0::1::::<><><>0<>0<><>::uid://vkhqbhnm7ll8::::res://icon.svg
+main.tscn::PackedScene::5460348554178548727::1790042900::0::1::::<><><>0<>0<><>::uid://c6l5rttn24y0y::::res://player.gd<>uid://biioii6x6sjnb::::res://green.png<>uid://8rwgruof8n7j::::res://eyeman.png
+README.md::TextFile::-1::1789942042::0::1::::<><><>0<>0<><>::
+player.gd::GDScript::6973256571662087362::1790036038::0::1::::<>CharacterBody2D<><>0<>0<><>::
+area_2d.gd::GDScript::6297223405483477608::1790039052::0::1::::<>Area2D<><>0<>0<><>::
+music.tscn::PackedScene::4529603134928350246::1790042898::0::1::::<><><>0<>0<><>::uid://s8ry3yspbk8r::::res://song.band/Media/Audio Files/Compressed Vocal#01.wav
+::res://addons/::1790038776
+::res://addons/godot_super-wakatime/::1790038776
+api_key_prompt.tscn::PackedScene::3919262858641749045::1790038769::0::1::::<><><>0<>0<><>::
+counter.tscn::PackedScene::6849360014225833986::1790038769::0::1::::<><><>0<>0<><>::
+decompressor.gd::GDScript::513498479588648040::1790038769::0::1::::<>RefCounted<><>0<>0<><>::
+godot_super-wakatime.gd::GDScript::6277149880384411866::1790038769::0::1::::<>EditorPlugin<><>0<>1<><>::
+plugin.cfg::TextFile::-1::1790038769::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1790038769::0::1::::<><><>0<>0<><>::
+utils.gd::GDScript::5251015809120159908::1790038769::0::1::::<>RefCounted<><>0<>0<><>::
+::res://epic backhground music.band/::1790043236
+::res://epic backhground music.band/Alternatives/::1790043236
+::res://epic backhground music.band/Alternatives/000/::1790043240
+WindowImage.jpg::CompressedTexture2D::6186129580562221216::1790043236::1790043249::1::::<><><>0<>0<>ec67fd41f6bebdeeeea4c350733fcf8d<>res://.godot/imported/WindowImage.jpg-327fe0ca10b66f8500bfab54679fae03.ctex::
+::res://epic backhground music.band/Alternatives/000/Undo Data.nosync/::1790043240
+::res://epic backhground music.band/Media/::1790043236
+::res://epic backhground music.band/Media/Audio Files/::1790043236
+Classic Vocal#01.wav::AudioStreamWAV::3791978285910505139::1790043218::1790043249::1::::<><><>0<>0<>0cae7e6522b52b23f3302f46226e43fa<>res://.godot/imported/Classic Vocal#01.wav-207084544ba9e208ec1e43781f47d287.sample::
+::res://epic backhground music.band/Resources/::1790043236
+::res://song.band/::1790042322
+::res://song.band/Alternatives/::1790042322
+::res://song.band/Alternatives/000/::1790042363
+WindowImage.jpg::CompressedTexture2D::1340138534766926105::1790042322::1790042363::1::::<><><>0<>0<>b31bfc7427125107ceae5ddf32b6bbfb<>res://.godot/imported/WindowImage.jpg-aee00da0db9fec8e08c8824859747ae2.ctex::
+::res://song.band/Alternatives/000/Undo Data.nosync/::1790042324
+::res://song.band/Media/::1790042322
+::res://song.band/Media/Audio Files/::1790042363
+Compressed Vocal#01.wav::AudioStreamWAV::1332600207866347603::1790042286::1790042363::1::::<><><>0<>0<>fba50cabab94607a958e5fec05b5600b<>res://.godot/imported/Compressed Vocal#01.wav-ca31ea0b39957b12fcf0e8d87a363c87.sample::
+::res://song.band/Resources/::1790042322
