@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b5sf5wsjik7je"]
+
+[ext_resource type="AudioStream" uid="uid://bua4lftvir7vb" path="res://epic backhground music.band/Media/Audio Files/Classic Vocal#01.wav" id="1_3h6ak"]
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer"]
+stream = ExtResource("1_3h6ak")
+autoplay = true

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://s8ry3yspbk8r"
+path="res://.godot/imported/Compressed Vocal#01.wav-ca31ea0b39957b12fcf0e8d87a363c87.sample"
+
+[deps]
+
+source_file="res://song.band/Media/Audio Files/Compressed Vocal#01.wav"
+dest_files=["res://.godot/imported/Compressed Vocal#01.wav-ca31ea0b39957b12fcf0e8d87a363c87.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
